@@ -1,1 +1,1 @@
-# Todo Full-Stack Web-Applicatopn.
+# Todo Full-Stack Web-Application.
